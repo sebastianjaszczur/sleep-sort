@@ -1,0 +1,23 @@
+Linux 3.13.0-39-generic x86_64
+javac 1.7.0_65
+GNU bash, version 4.3.11(1)-release (x86_64-pc-linux-gnu)
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+
+This is free software; you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+example array:
+5 6 9 8 7 4 1 0 3 6 2 11 4 5 8 6 10 1 6 5 7 9 12 6 4 2 3 9 11 0
+
+time of bash implementation:
+
+real	0m12.019s
+user	0m0.016s
+sys	0m0.105s
+
+time of java implementation:
+
+real	0m12.215s
+user	0m0.054s
+sys	0m0.231s
+
